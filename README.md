@@ -8,7 +8,7 @@ Here is a simple auto responsive [For All Devices] iframe code to easily embed t
 
 MP3 Converter API Code:
 
-`<iframe class="button-api-frame" src="https://toquemp3.com/@api/button/mp3/YouTube-Video-ID" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`
+`<iframe class="button-api-frame" src="https://convert2mp3s.com/api/button/mp3?url=https://www.youtube.com/watch?v=YouTube-Video-ID" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`
 ```
 <!-- Optional script that automatically makes iframe content responsive. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js"></script>
@@ -17,7 +17,7 @@ MP3 Converter API Code:
 
 MP4, WEbM, 3Gp & Flv Video Converter API Code:
 
-`<iframe class="button-api-frame" src="https://toquemp3.com/@api/button/videos/YouTube-Video-ID" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`
+`<iframe class="button-api-frame" src="https://convert2mp3s.com/api/button/mp4?url=https://www.youtube.com/watch?v=YouTube-Video-ID" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe>`
 ```
 <!-- Optional script that automatically makes iframe content responsive. -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js"></script>
@@ -31,4 +31,4 @@ YouTube-Video-ID: **rNteJDNG5qY**
 
 Please write to us for any query or support: contato@toquemp3.com
 
-Official API Website: https://toquemp3.com/@developers
+Official API Website: https://convert2api.com
